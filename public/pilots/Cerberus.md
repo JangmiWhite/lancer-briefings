@@ -1,5 +1,1 @@
-W.I.P
-
-## Trivia
-
-* ???
+A fierce pilot that focuses on fulfilling given objectives by the simplest and most direct way possible. Often defaulting to eliminating as many hostiles as possible, she at least has a good track record of getting the job done. Often compared to a vicious attack dog. 
