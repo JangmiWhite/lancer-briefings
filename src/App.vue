@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug Hunt",
+          "slug": "002",
+          "name": "Vigilant Gazw",
           "status": "start"
         },
       ],
@@ -104,17 +104,17 @@ export default {
           "callsign": "Cerberus",
           "alias": "RIP",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Metal Wolf Chaos"
+          "corpro": "SSC",
+          "frame": "Viceroy",
+          "mech": "Ferrous Fenris Khaos DX"
         },
         {
           "callsign": "Euryale",
           "alias": "Alice",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Bad Magistrate"
+          "corpro": "SSC",
+          "frame": "Orchis",
+          "mech": "Scarlet Devil"
         },
         {
           "callsign": "Patchwork",
@@ -125,19 +125,19 @@ export default {
           "mech": "Monsoon"
         },
         {
-          "callsign": "Shallows",
+          "callsign": "Mellifera",
           "alias": "Wurst",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Buzzing Wings"
+          "corpro": "HORUS",
+          "frame": "Hydra",
+          "mech": "Regal Buzz"
         },
         {
           "callsign": "Zee",
           "alias": "Disador",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
+          "corpro": "IPS-N",
+          "frame": "Caliban",
           "mech": "Bubbles"
         },
       ],
