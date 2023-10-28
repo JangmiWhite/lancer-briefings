@@ -114,7 +114,7 @@ export default {
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "SSC",
           "frame": "Orchis",
-          "mech": "Scarlet Devil"
+          "mech": "The Scarlet Devil"
         },
         {
           "callsign": "Patchwork",
@@ -130,7 +130,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "HORUS",
           "frame": "Hydra",
-          "mech": "Regal Buzz"
+          "mech": "A Regal Buzz"
         },
         {
           "callsign": "Zee",
