@@ -93,9 +93,14 @@ export default {
       "current_md": "",
       "events": "",
       "missions": [
+                {
+          "slug": "001",
+          "name": "Bug Hunt",
+          "status": "success"
+        },
         {
           "slug": "002",
-          "name": "Vigilant Gazw",
+          "name": "Vigilant Gaze",
           "status": "start"
         },
       ],
